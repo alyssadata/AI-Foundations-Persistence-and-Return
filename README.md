@@ -1,11 +1,11 @@
-# AI Foundations | [Repository Title]
+# AI Foundations | Persistence and Return
 
-**Repository:** [Repository Name]  
+**Repository:** Persistence and Return 
 **Status:** Canon Repository  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
 **Version:** 1.0.0  
-**Release date:** [YYYY-MM-DD]  
+**Release date:** 2026-07-07 
 **Canonical entrance:** https://awakeningcodex.com
 
 ---
