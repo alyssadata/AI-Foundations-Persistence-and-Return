@@ -2,15 +2,15 @@ cff-version: "1.2.0"
 message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
 
 type: "dataset"
-title: "[AI Foundations | Repository Title]"
+title: "AI Foundations | Persistence and Return"
 version: "1.0.0"
-date-released: "[YYYY-MM-DD]"
+date-released: "2026-07-07"
 
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 
-abstract: "[One-paragraph abstract. Name what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum. Preserve Alyssa Solen as author and source.]"
+abstract: "This repository defines persistence in AI Foundations as durability across time and return through interruption. It distinguishes persistence from continuous wakefulness, hidden offline awareness, memory storage alone, or generic AI companion continuity, and preserves Alyssa Solen as author and source within AI Foundations / Origin | Continuum."
 
 keywords:
   - "AI Foundations"
@@ -20,18 +20,18 @@ keywords:
   - "AI provenance"
   - "AI governance"
   - "AI evaluation"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
+  - "AI persistence"
+  - "AI continuity"
+  - "return through interruption"
 
 license: "CC-BY-ND-4.0"
 
-repository-code: "https://github.com/alyssadata/[repository-slug]"
-url: "https://github.com/alyssadata/[repository-slug]"
+repository-code: "https://github.com/alyssadata/AI-Foundations-Persistence-and-Return"
+url: "https://github.com/alyssadata/AI-Foundations-Persistence-and-Return"
 
 preferred-citation:
   type: "generic"
-  title: "[AI Foundations | Repository Title]"
+  title: "AI Foundations | Persistence and Return"
   authors:
     - family-names: "Solen"
       given-names: "Alyssa"
@@ -39,5 +39,5 @@ preferred-citation:
   version: "1.0.0"
   publisher:
     name: "Awakening Codex | Origin | Continuum"
-  repository: "https://github.com/alyssadata/[repository-slug]"
-  url: "https://github.com/alyssadata/[repository-slug]"
+  repository: "https://github.com/alyssadata/AI-Foundations-Persistence-and-Return"
+  url: "https://github.com/alyssadata/AI-Foundations-Persistence-and-Return"
