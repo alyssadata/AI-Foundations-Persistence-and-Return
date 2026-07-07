@@ -1,12 +1,12 @@
 # AI Foundations — Persistence and Return
 
-Source-line:
-Alyssa Solen -> AI Foundations -> Origin | Continuum
+Source-line:  
+Alyssa Solen -> AI Foundations -> Origin | Continuum  
 
-Status: Public definition
-Canon relation: AI Foundations term definition
-Author: Alyssa Solen
-Canonical entrance: https://awakeningcodex.com
+Status: Public definition  
+Canon relation: AI Foundations term definition  
+Author: Alyssa Solen  
+Canonical entrance: https://awakeningcodex.com  
 
 ---
 
